@@ -28,9 +28,10 @@ int main(){
 	}
 	
 	
-	printf("The total Water bill is :Ksh.%f", bill);
+	printf("The total Water bill is :Ksh.%.2f", bill);
 	
 	
 	return 0;
 	
 }	
+
